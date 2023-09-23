@@ -73,6 +73,6 @@
   .insidediv input:focus + label span,
   .insidediv input:valid + label span {
     color: lightblue;
-    transform: translateY(-30px);
+    transform: translateY(-40px);
   }
   
